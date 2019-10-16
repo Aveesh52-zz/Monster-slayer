@@ -3,7 +3,7 @@
 > A Moonster slayer where user can attack , use special attack , heal or give up, log will be displlayed in the sreen
 
 ![image](Homepage1.png)
-![image](Home.png)
+![image](home.png)
 
 
 
